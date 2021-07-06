@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Adarshshanbhag5/Loopstudios-landing-page-frontEndMentorIo](https://github.com/Adarshshanbhag5/Loopstudios-landing-page-frontEndMentorIo)
+- Live Site URL: [https://eager-turing-476da2.netlify.app](https://eager-turing-476da2.netlify.app)
 
 ## My process
 
